@@ -1,0 +1,18 @@
+{
+  "claims": [
+    {
+      "domain": "validator.ag",
+      "timestamp": 1609890278,
+      "type": "DOMAIN"
+    },
+    {
+      "username": "AGx10k",
+      "timestamp": 1609890325,
+      "type": "KEYBASE"
+    }
+  ],
+  "meta": {
+    "address": "0x15Ed3f6b79F5Fb9Ef1D99D37314Dd626b3005F0b",
+    "signature": "0xc24bcaedbe02469c508cc70aa287b6101a155d0f72ffbcc032170447dbfdd35105bc5615a6e3998383951a0d4dd073cad9ffd4c1a70a6a8047755ef255f4b5661b"
+  }
+}
