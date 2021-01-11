@@ -1,0 +1,13 @@
+{
+  "claims": [
+    {
+      "url": "https://celo-mainnet-agx1-attestation.validator.ag",
+      "timestamp": 1603976712,
+      "type": "ATTESTATION_SERVICE_URL"
+    }
+  ],
+  "meta": {
+    "address": "0x943e9a5c750adcc467575F4fE81bf6b1C3A2aeD7",
+    "signature": "0xb5bca1c1ef568f0f07553573a0d85924f4d960fdf5a2c94e2f9fc541da30801b29e7884748452907ae30e5c2b22ec7cf515708275cc24eafbedbf416b18f575a1c"
+  }
+}
