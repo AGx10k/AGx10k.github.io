@@ -1,0 +1,18 @@
+{
+  "claims": [
+    {
+      "rpcUrl": "https://celo-mainnet-agx2-bruce-rpc.validator.ag",
+      "timestamp": 1742840916,
+      "type": "RPC_URL"
+    },
+    {
+      "name": "AGx2-Bruce",
+      "timestamp": 1742841190,
+      "type": "NAME"
+    }
+  ],
+  "meta": {
+    "address": "0xa8318d4Ed42A3de046a4A259204214f52ABDd79f",
+    "signature": "0x9b9e42e51bf201b93a44c4014f43e1c17640c8dd87f3d24182769817407ea8a9436c450afe5a8611e3197c0f8c4fc9b395d8bb901de7f64427d4ddc0c48723721b"
+  }
+}

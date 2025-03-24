@@ -1,0 +1,18 @@
+{
+  "claims": [
+    {
+      "rpcUrl": "https://celo-mainnet-agx1-arnold-rpc.validator.ag",
+      "timestamp": 1742840915,
+      "type": "RPC_URL"
+    },
+    {
+      "name": "AGx1-Arnold",
+      "timestamp": 1742841189,
+      "type": "NAME"
+    }
+  ],
+  "meta": {
+    "address": "0x5B6E7753C881768EF7e8f645c556d4aFE19389d7",
+    "signature": "0x7312d0cb8210696c90c930a9a1abb00f510d394b3f65d84d833d225e5329ef7b6d4cdcae980efed62e4f02fd9cd9d943b3a04c2cb5206712c86c980b24c1fea61c"
+  }
+}

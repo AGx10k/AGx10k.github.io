@@ -1,0 +1,18 @@
+{
+  "claims": [
+    {
+      "rpcUrl": "https://celo-mainnet-agx3-chuck-rpc.validator.ag",
+      "timestamp": 1742840917,
+      "type": "RPC_URL"
+    },
+    {
+      "name": "AGx3-Chuck",
+      "timestamp": 1742841191,
+      "type": "NAME"
+    }
+  ],
+  "meta": {
+    "address": "0xdDe3a88affcffB6c36b0c79776920665D052e129",
+    "signature": "0x07cdc90a52490813d1873bb8e28fbcb29c68274909e62b81906c63c0fec5e37f1beb5ca8a42f2c8db9c515c4a8efc0dc425b35469667278555d03b0b980135691b"
+  }
+}
