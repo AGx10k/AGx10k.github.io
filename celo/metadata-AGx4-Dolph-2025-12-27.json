@@ -1,0 +1,18 @@
+{
+  "claims": [
+    {
+      "rpcUrl": "https://celo-mainnet-agx4-dolph-rpc.validator.ag",
+      "timestamp": 1766830820,
+      "type": "RPC_URL"
+    },
+    {
+      "name": "AGx4-Dolph",
+      "timestamp": 1766830821,
+      "type": "NAME"
+    }
+  ],
+  "meta": {
+    "address": "0xfDEfc5261dFc295DC95d83005D0EBD956Fd62d69",
+    "signature": "0xe58ab51803e6e6bb74c1d3cc73c1db76207914b86c29f4c8da394b3dec77ded21064b981e9228b3fe854927a8ff9dac40406916cc61ed7038f3a09c6323ab4a91c"
+  }
+}
