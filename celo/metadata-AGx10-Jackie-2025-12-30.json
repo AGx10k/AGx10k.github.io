@@ -1,0 +1,18 @@
+{
+  "claims": [
+    {
+      "rpcUrl": "https://celo-mainnet-agx10-jackie-rpc.validator.ag",
+      "timestamp": 1767080754,
+      "type": "RPC_URL"
+    },
+    {
+      "name": "AGx10-Jackie",
+      "timestamp": 1767080756,
+      "type": "NAME"
+    }
+  ],
+  "meta": {
+    "address": "0x866aa988863a2ad66397d0e7cB47Ca82ECA61AD2",
+    "signature": "0xa911ae430143dba5aa5976ed18db7f5227971812f8ab345aa2dada68be9255ea0ab3ad8eef44114cf4e18fdbebb2ce8adf6f21e6c016f81feeb43966fa1481991b"
+  }
+}
